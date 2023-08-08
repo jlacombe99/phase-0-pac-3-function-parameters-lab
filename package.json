@@ -4,13 +4,14 @@
   "description": "Practice writing functions in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --timeout 5000 --reporter 'json' > .results.json & mocha"
+    "test": "mocha --timeout 5000 --reporter 'json' > .results.json & mocha "
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/java-script-intro-to-functions-lab.git"
   },
   "keywords": [
+
     "javascript",
     "flatiron",
     "learn"
